@@ -871,7 +871,7 @@ MonoBehaviour:
   Tile: {fileID: 381832163215874291, guid: 7bc8e6da387bb2749b8cf9f59cbf0b1f, type: 3}
   GridLength: 10
   GridWidth: 10
-  TileDiff: 1.1
+  TileDiff: 2.2
   playerPrefab: {fileID: 1041796467650778625, guid: c9ca7e330b9554b419df3b0a9b6dae77, type: 3}
   enemyPrefab: {fileID: 6989944930753191987, guid: 62610b2c6fb6d5740b110711325e2a31, type: 3}
 --- !u!4 &1044763347

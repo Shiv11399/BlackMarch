@@ -52,7 +52,6 @@ public class ObstacleManager : MonoBehaviour
             var selection = hit.transform;
             var selectionRenderer = selection.GetComponent<Renderer>();
             var selectionTile = selection.GetComponent<Tile>();
-            //if (!selection.CompareTag(Tag)) return;
             if(selectionRenderer != null)
             {
                 selectionRenderer.material = HighLightedMaterial;
